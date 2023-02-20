@@ -65,4 +65,4 @@ roles:
 Ansible Galaxy - Site for sharing roles
 command line tool - ansible-galaxy
 ansible-galaxy install username.rolename
-"""`````````
+"""
